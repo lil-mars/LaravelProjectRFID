@@ -1,0 +1,1 @@
+INSERT INTO estelar.historialHotel (idHistorialHotel, idHotel, idCategoria, fechaInicio, fechaFin, observaciones, activo) VALUES (1, 1, 2, '2000-01-14', null, 'Con 4 estrellas aprobados', 1);
