@@ -43,6 +43,7 @@ class UserController extends Controller
      */
     public function create()
     {
+
     }
 
     public function check(Request $request)
@@ -100,7 +101,6 @@ class UserController extends Controller
         } else {
             $employee->fotografia = '';
         }
-
         $employee->idRol = $request->get('idRol');
         $employee->activo = $request->get('active');
         $employee->rfidCode = $request->get('rfid');

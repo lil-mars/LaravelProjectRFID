@@ -1,4 +1,0 @@
-INSERT INTO estelar.agenteTuristico (idAgenteTuristico, idAgencia, ciUsuario, primerNombre, segundoNombre, apellidoPaterno, apellidoMaterno, activo) VALUES (1, 1, '3001', 'Rolando', null, 'Guardia', null, 1);
-INSERT INTO estelar.agenteTuristico (idAgenteTuristico, idAgencia, ciUsuario, primerNombre, segundoNombre, apellidoPaterno, apellidoMaterno, activo) VALUES (2, 1, '3002', 'Natalia', null, 'Cervantes', null, 1);
-INSERT INTO estelar.agenteTuristico (idAgenteTuristico, idAgencia, ciUsuario, primerNombre, segundoNombre, apellidoPaterno, apellidoMaterno, activo) VALUES (3, 2, '3003', 'Julio', null, 'Cervantes', null, 1);
-INSERT INTO estelar.agenteTuristico (idAgenteTuristico, idAgencia, ciUsuario, primerNombre, segundoNombre, apellidoPaterno, apellidoMaterno, activo) VALUES (4, 3, '3004', 'Jimmy', null, 'Vargas', null, 1);

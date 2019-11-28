@@ -1,2 +1,0 @@
-INSERT INTO estelar.users (id, name, email, email_verified_at, password, remember_token, created_at, updated_at) VALUES (1, 'erick', 'admin@admin.com', null, '$2y$10$CFoNf7b8OD.zyNPa7Y4Q4ell02nbYZXfLeB87arcDQzW1BwqxM8u2', null, '2019-06-26 12:30:23', '2019-06-26 12:30:23');
-INSERT INTO estelar.users (id, name, email, email_verified_at, password, remember_token, created_at, updated_at) VALUES (2, 'Erick', 'erick@admin.com', null, '$2y$10$yY5RKhJuIN3LcFVg4V5uzeJTtEKgR68X0NqRFyiFqZrNOijpsiSxO', null, '2019-08-16 16:45:22', '2019-08-16 16:45:22');
